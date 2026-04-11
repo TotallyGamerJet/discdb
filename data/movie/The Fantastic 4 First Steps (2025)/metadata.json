@@ -10,7 +10,9 @@
     "Tmdb": "617126",
     "Imdb": "tt10676052"
   },
-  "Groups": [],
+  "Groups": [
+    "Marvel"
+  ],
   "Plot": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel\u0027s First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
   "Tagline": "Welcome to the family.",
   "RuntimeMinutes": 0,

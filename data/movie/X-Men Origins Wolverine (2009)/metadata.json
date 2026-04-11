@@ -10,7 +10,9 @@
     "Tmdb": "2080",
     "Imdb": "tt0458525"
   },
-  "Groups": [],
+  "Groups": [
+    "Marvel"
+  ],
   "Plot": "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.",
   "Tagline": "Witness the origin.",
   "RuntimeMinutes": 0,
