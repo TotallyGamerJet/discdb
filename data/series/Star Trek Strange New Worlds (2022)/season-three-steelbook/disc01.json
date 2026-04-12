@@ -1,7 +1,7 @@
 {
   "Index": 1,
-  "Slug": "disc-one",
-  "Name": "Disc One",
+  "Slug": "season-three-episodes-1-4",
+  "Name": "Season Three: Episodes 1-4",
   "Format": "UHD",
   "ContentHash": "C322B0B169B117576661387AF36CA06E",
   "Titles": [
@@ -176,11 +176,11 @@
       "Size": 3594903552,
       "DisplaySize": "3.3 GB",
       "Item": {
-        "Title": "Extended \u0026 Deleted Scenes",
+        "Title": "A Space Adventure Hour - Extended \u0026 Deleted Scenes",
         "Type": "Extra",
         "Chapters": [],
         "Season": "3",
-        "Episode": "4"
+        "Episode": "304"
       },
       "Tracks": [
         {
@@ -845,11 +845,11 @@
       "Size": 1659592704,
       "DisplaySize": "1.5 GB",
       "Item": {
-        "Title": "Extended \u0026 Deleted Scenes",
+        "Title": "Shuttle to Kenfori - Extended \u0026 Deleted Scenes",
         "Type": "Extra",
         "Chapters": [],
         "Season": "3",
-        "Episode": "3"
+        "Episode": "303"
       },
       "Tracks": [
         {
@@ -922,9 +922,10 @@
       "Item": {
         "Title": "A Space Adventure Hour",
         "Type": "Episode",
+        "Description": "La\u0027An tests a prototype holodeck with a fictional case only she can solve.",
         "Chapters": [],
         "Season": "3",
-        "Episode": "4"
+        "Episode": "304"
       },
       "Tracks": [
         {
@@ -1021,9 +1022,10 @@
       "Item": {
         "Title": "Shuttle to Kenfori",
         "Type": "Episode",
+        "Description": "Pike and M\u0027Benga enter Klingon space for Batel\u0027s cure as M\u0027Benga\u0027s past returns on a deadly world.",
         "Chapters": [],
         "Season": "3",
-        "Episode": "3"
+        "Episode": "303"
       },
       "Tracks": [
         {
@@ -1120,9 +1122,10 @@
       "Item": {
         "Title": "Wedding Bell Blues",
         "Type": "Episode",
+        "Description": "At a Federation celebration, an uninvited guest disrupts Spock and the crew\u0027s reflections.",
         "Chapters": [],
         "Season": "3",
-        "Episode": "2"
+        "Episode": "302"
       },
       "Tracks": [
         {
@@ -1271,11 +1274,11 @@
       "Size": 796520448,
       "DisplaySize": "759.6 MB",
       "Item": {
-        "Title": "Extended \u0026 Deleted Scenes",
+        "Title": "Wedding Bell Blues - Extended \u0026 Deleted Scenes",
         "Type": "Extra",
         "Chapters": [],
         "Season": "3",
-        "Episode": "2"
+        "Episode": "302"
       },
       "Tracks": [
         {
@@ -1364,11 +1367,11 @@
       "Size": 833384448,
       "DisplaySize": "794.7 MB",
       "Item": {
-        "Title": "Extended Scenes",
+        "Title": "Hegemony, Part II - Extended Scenes",
         "Type": "Extra",
         "Chapters": [],
         "Season": "3",
-        "Episode": "1"
+        "Episode": "301"
       },
       "Tracks": [
         {
@@ -1511,11 +1514,12 @@
       "Size": 21294157824,
       "DisplaySize": "19.8 GB",
       "Item": {
-        "Title": "Hegemony (2)",
+        "Title": "Hegemony, Part II",
         "Type": "Episode",
+        "Description": "Pike leads a risky rescue behind enemy lines as the landing party flees a deadly enemy.",
         "Chapters": [],
         "Season": "3",
-        "Episode": "1"
+        "Episode": "301"
       },
       "Tracks": [
         {
@@ -1747,8 +1751,7 @@
         "Title": "Gag Reel",
         "Type": "Extra",
         "Chapters": [],
-        "Season": "3",
-        "Episode": "4"
+        "Season": "3"
       },
       "Tracks": [
         {
